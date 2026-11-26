@@ -1,4 +1,4 @@
-INSERT INTO pokemon(id,nombre) VALUES 
+INSERT INTO pokemon(id,nombre,tipo) VALUES 
 
 
 (001	,Bulbasaur,PLANTA),
